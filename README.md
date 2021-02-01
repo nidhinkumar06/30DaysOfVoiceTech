@@ -17,4 +17,5 @@
 
 | Day  | Task | Status |
 | :-------------: | :------------- | :----------: |
-| Day 1  | DialogflowCX - 101 |  |
+| Day 1  | Dialogflow CX - 101 | Done |
+| Day 2  | Dialogflow CX - Basics |  |
