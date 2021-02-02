@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Actions on Google - Day 1</h1>
+  <h1>VoiceTech - Day 1</h1>
   <p>Dialogflow CX-101</p>
 </div>
 
