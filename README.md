@@ -19,4 +19,5 @@
 | :-------------: | :------------- | :----------: |
 | Day 1  | Dialogflow CX - 101 | Done |
 | Day 2  | Dialogflow CX Basics - Part 1 | Done |
-| Day 3  | Dialogflow CX Basics - Part 2 | |
+| Day 3  | Dialogflow CX Basics - Part 2 | Done |
+| Day 4  |  |  |
