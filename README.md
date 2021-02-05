@@ -21,4 +21,5 @@
 | Day 2  | Dialogflow CX Basics - Part 1 | Done |
 | Day 3  | Dialogflow CX Basics - Part 2 | Done |
 | Day 4  | Dialogflow CX Pages and Transistions | Done |
-| Day 5  |  |  |
+| Day 5  | Dialogflow CX - Vending Machine PoC | Done |
+| Day 6  |  |  |
