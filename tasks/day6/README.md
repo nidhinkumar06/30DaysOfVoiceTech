@@ -8,26 +8,19 @@
 #### Creating Pages in Dialogflow CX
 
 <div align="center">
-  <video width="650" height="350" controls>
-    <source src="assets/day6/dialogflow-cx-creating-page.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-</video>
+  <img src="../../assets/day6/dialogflow-cx-creating-page.gif" alt="voicetech" height="250">
 </div>
 
 
 #### Creating Intents in Default Start
 
 <div align="center">
-  <video width="650" height="350" controls>
-    <source src="assets/day6/dialogflow-cx-state-page.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-</video>
+  <img src="../../assets/day6/dialogflow-cx-state-page.gif" alt="voicetech" height="250">
 </div>
 
 #### Page Transistion from one page to another
 <div align="center">
-  <video width="650" height="350" controls>
-    <source src="assets/day6/dialogflow-cx-state-page-2.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-</video>
+  <img src="../../assets/day6/dialogflow-cx-state-page-2.gif" alt="voicetech" height="250">
 </div>
+
+Check the assets directory for the video
