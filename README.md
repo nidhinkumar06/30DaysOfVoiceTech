@@ -24,4 +24,5 @@
 | Day 5  | Dialogflow CX - Vending Machine PoC | Done |
 | Day 6  | Dialogflow CX - Vending Machine PoC | Done |
 | Day 7  | Dialogflow CX - Vending Machine PoC  | Done |
-| Day 8  |   |  |
+| Day 8  | Dialogflow CX - Vending Machine PoC  | Done |
+| Day 9  |   |  |
