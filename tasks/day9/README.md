@@ -28,3 +28,7 @@ it('choose_fact', async function() {
 ```
 
 The detectIntent endpoint also triggers Dialogflow fulfillment, which may cause additional network calls. You can toggle fulfillment on or off for an individual intent in the Fulfillment section of that intent's page.
+
+## Reference Links
+
+https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs/tree/master/functions/test
