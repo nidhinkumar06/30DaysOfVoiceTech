@@ -27,4 +27,5 @@
 | Day 8  | Dialogflow CX - Vending Machine PoC  | Done |
 | Day 9  | GoogleAssistant - Unit testing | Done |
 | Day 10 | GoogleAssistant - Unit testing assertions | Done |
-| Day 11 |  |  |
+| Day 11 | GoogleAssistant - Unit testing assertions | Done |
+| Day 12 |  |  |
