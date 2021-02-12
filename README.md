@@ -28,4 +28,4 @@
 | Day 9  | GoogleAssistant - Unit testing | Done |
 | Day 10 | GoogleAssistant - Unit testing assertions | Done |
 | Day 11 | GoogleAssistant - Unit testing assertions | Done |
-| Day 12 |  |  |
+| Day 12 | GoogleAssistant - Unit testing test suite | Done |
