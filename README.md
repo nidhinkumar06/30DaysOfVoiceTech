@@ -29,3 +29,5 @@
 | Day 10 | GoogleAssistant - Unit testing assertions | Done |
 | Day 11 | GoogleAssistant - Unit testing assertions | Done |
 | Day 12 | GoogleAssistant - Unit testing test suite | Done |
+| Day 13 | GoogleAssistant - Unit testing - PoC | Done |
+| Day 14 |   |  |
