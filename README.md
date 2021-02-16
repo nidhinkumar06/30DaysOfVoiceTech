@@ -32,3 +32,4 @@
 | Day 13 | GoogleAssistant - Unit testing - PoC - Part1 | Done |
 | Day 14 | GoogleAssistant - Unit testing - PoC - Part2 | Done |
 | Day 15 | Alexa Skills - 101 | Done |
+| Day 16 | Alexa Skills - 101 | Done |
