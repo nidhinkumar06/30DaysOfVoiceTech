@@ -34,3 +34,4 @@
 | Day 15 | Alexa Skills - 101 | Done |
 | Day 16 | Alexa Skills - 101 | Done |
 | Day 17 | Alexa Skills - 101 | Done |
+| Day 18 | Alexa Skills - 101 | Done |
