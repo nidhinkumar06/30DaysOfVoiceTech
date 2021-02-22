@@ -38,3 +38,4 @@
 | Day 19 | Alexa Skills - 101 | Done |
 | Day 20 | Alexa Skills - 101 | Done |
 | Day 21 | NodeJs for Alexa Development | Done |
+| Day 22 | NodeJs for Alexa Development | Done |
