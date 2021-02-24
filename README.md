@@ -40,3 +40,4 @@
 | Day 21 | NodeJs for Alexa Development | Done |
 | Day 22 | NodeJs for Alexa Development | Done |
 | Day 23 | NodeJs for Alexa Development | Done |
+| Day 24 | NodeJs for Alexa Development | Done |
