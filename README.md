@@ -43,3 +43,4 @@
 | Day 24 | NodeJs for Alexa Development | Done |
 | Day 25 | Voiceflow Introduction | Done |
 | Day 26 | Voiceflow Debugging and uploading the skill to Alexa | Done |
+| Day 27 | Voiceflow Intents, Utterances and Slots | Done |
