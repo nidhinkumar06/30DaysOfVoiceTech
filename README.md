@@ -45,3 +45,4 @@
 | Day 26 | Voiceflow Debugging and uploading the skill to Alexa | Done |
 | Day 27 | Voiceflow Intents, Utterances and Slots | Done |
 | Day 28 | Voiceflow Slots and Interaction Modal Manager | Done |
+| Day 29 | Voiceflow Intro to Logic | Done |
