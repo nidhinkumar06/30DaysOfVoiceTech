@@ -46,3 +46,4 @@
 | Day 27 | Voiceflow Intents, Utterances and Slots | Done |
 | Day 28 | Voiceflow Slots and Interaction Modal Manager | Done |
 | Day 29 | Voiceflow Intro to Logic | Done |
+| Day 30 | Voiceflow Flows and Commands | Done |
